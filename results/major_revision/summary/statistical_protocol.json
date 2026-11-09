@@ -1,0 +1,10 @@
+{
+  "bootstrap_unit": "unordered drug pair",
+  "bootstrap_hierarchy": "resample unordered pairs within each split seed, then average seed-level metrics",
+  "bootstrap_replicates": 100,
+  "split_seeds": [
+    0,
+    42,
+    123
+  ]
+}

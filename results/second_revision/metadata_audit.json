@@ -1,0 +1,18 @@
+{
+  "raw_rows": 297098,
+  "raw_columns": [
+    "Drug1_ID",
+    "Drug2_ID",
+    "Cell_Line_ID",
+    "CSS",
+    "Synergy_ZIP",
+    "Synergy_Bliss",
+    "Synergy_Loewe",
+    "Synergy_HSA",
+    "Drug1",
+    "Drug2",
+    "CellLine"
+  ],
+  "candidate_batch_fields_available": [],
+  "source_split_status": "not_estimable_from_the_distributed_TDC_task_table"
+}

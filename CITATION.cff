@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code or its result artifacts, please cite the associated paper."
+title: "What Does Random Splitting Evaluate in Drug Synergy Benchmarks? A Repeated-Entity Audit"
+type: software
+authors:
+  - given-names: Yuxin
+    family-names: Wen
+  - given-names: Yi
+    family-names: Tian
+  - given-names: Nguyen Quoc Khanh
+    family-names: Le
+  - given-names: Matthew Chin Heng
+    family-names: Chua
+year: 2026
+repository-code: "https://github.com/WenYuxin2003/repeated-entity-audit-drug-synergy"
+

@@ -1,0 +1,21 @@
+{
+  "source_url": "https://discover.nci.nih.gov/cellminer/download/processeddataset/DTP_NCI60_ALMANAC_COMBO_SCORE.zip",
+  "zip_path": "data/external/nci_almanac/DTP_NCI60_ALMANAC_COMBO_SCORE.zip",
+  "xlsx_path": "data/external/nci_almanac/unzipped/output/DTP_NCI60_ALMANAC_COMBO_SCORE.xlsx",
+  "metadata": {
+    "CellMiner Address": "https://discover.nci.nih.gov/cellminer/",
+    "Download normalized data set": "Compound activity almanac combo scores a",
+    "CellMiner Database Version": "2.15",
+    "Human Genome Version": "HG-19",
+    "Date": "09-17-2025"
+  },
+  "n_rows": 306365,
+  "n_drugs": 104,
+  "n_pairs": 5233,
+  "n_cells": 59,
+  "script": "scripts\\run_nci_almanac_external_diagnostic.py",
+  "seed": 123,
+  "max_samples": 0,
+  "alpha": 10.0,
+  "shrinkage": 10.0
+}

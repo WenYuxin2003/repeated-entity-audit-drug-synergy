@@ -1,0 +1,7 @@
+split,seen_drug_ratio,seen_pair_ratio,seen_cell_ratio
+random,1.0,0.9999535876728859,1.0
+cold_pair,1.0,0.0,1.0
+cold_one_drug,0.4228200683910357,0.0,1.0
+cold_both_drugs,0.0,0.0,1.0
+cold_cell,1.0,1.0,0.0
+molecular_cluster,0.41028331798361045,0.0,1.0

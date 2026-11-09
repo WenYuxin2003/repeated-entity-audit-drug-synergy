@@ -1,0 +1,21 @@
+{
+  "phase": "scale",
+  "data_path": "data/raw/tdc/drugcomb.pkl",
+  "out_dir": "results/major_revision",
+  "seeds": [
+    0,
+    42,
+    123
+  ],
+  "core_samples": 30000,
+  "cpb_samples": 40000,
+  "scale_sizes": [
+    25000,
+    50000,
+    100000,
+    0
+  ],
+  "n_smiles_features": 512,
+  "n_latent": 16,
+  "normalized_rows": 287268
+}

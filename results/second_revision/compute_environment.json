@@ -1,0 +1,8 @@
+{
+  "cpu": "11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz",
+  "python": "3.11.15",
+  "scikit_learn": "1.9.0",
+  "total_physical_memory_gb": 15.784477233886719,
+  "thread_policy": "OMP/MKL/OpenBLAS/NumExpr restricted to one thread",
+  "runtime_scope": "feature construction, fitting, and test inference"
+}
